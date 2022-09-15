@@ -1,0 +1,30 @@
+{
+  "name": "@kaliber/po-loader",
+  "version": "0.0.0",
+  "description": "Uses gettext to load po file",
+  "main": "index.js",
+  "sideEffects": false,
+  "license": "MIT",
+  "dependencies": {
+    "gettext-parser": "^6.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "webpack",
+    "po",
+    "gettext"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE",
+    "readme.md",
+    "package.json"
+  ],
+  "private": false,
+  "repository": "https://github.com/kaliberjs/po-loader",
+  "contributors": [
+    "Erik Westra <erik@kaliber.net>"
+  ]
+}
