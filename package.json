@@ -1,6 +1,6 @@
 {
   "name": "@kaliber/po-loader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Uses gettext to load po file",
   "main": "index.js",
   "sideEffects": false,
