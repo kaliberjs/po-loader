@@ -9,7 +9,7 @@ yarn add @kaliber/po-loader
 
 ## Usage
 
-This package is made to work with webpack but is internaly used in combination with [@kaliber/build](https://github.com/kaliberjs/build)
+This package is made to work with webpack but is used by kaliber in combination with [@kaliber/build](https://github.com/kaliberjs/build)
 
 ```js
 // config/default.js
